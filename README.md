@@ -1,0 +1,3 @@
+The aim of this app is to visualize and explore the sociological impact of endangered species through interactive plots based on user-selected variables (population trend, threat to species, status, ecosystem). The data was requested from the International Union for Conservation of Nature’s (IUCN) Red List of Threatened Species (world's most comprehensive information source for endangered species). This visualizations aid in understanding the human impact on endangered species and where additional conservation efforts would be most useful. 
+
+Link: https://nyzi5u-meghna-mehta.shinyapps.io/endangeredspecies/
